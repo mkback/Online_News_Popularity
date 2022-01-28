@@ -71,7 +71,7 @@ A big part of our preprocessing was deciding if we wanted to keep all original 6
 
 We used the generic "Train Test Split" code to split our 40,000 rows of data into the default test size of 25% (10,000 rows) while the remaining 75% (30,000 rows) are used for training. After testing Logistic Regression and Random Forest, we ultimately decided to go with the Balanced Random Forest Classifier model for our project. This had the highest balanced accuracy score (79%).
 
-<img width="1231" alt="News_ERD" src="https://user-images.githubusercontent.com/87578449/148697873-3c9c78f5-ac67-4dad-a68a-0364703f1f22.png">
+<img width="1231" alt="News_ERD" src="https://github.com/mkback/Online_News_Popularity/blob/main/Exploratory%20Analysis/Images/ML.png">
 
 #### Data Limitations
 
